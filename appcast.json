@@ -1,6 +1,15 @@
 {
   "releases": [
     {
+      "version": "V0.2.2",
+      "date": "2026-09-04",
+      "notes": [
+        "增加检测版本更新功能",
+        "增加获取更新日志功能"
+      ],
+      "download_url": "https://raw.githubusercontent.com/Junlongliu1/iMusic-releases/main/assets/iMusic-iOS-unsigned.ipa"
+    },
+    {
       "version": "V0.2.1",
       "date": "2026-09-04",
       "notes": [
