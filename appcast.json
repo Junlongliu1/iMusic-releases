@@ -1,0 +1,17 @@
+{
+  "releases": [
+    {
+      "version": "V0.2.1",
+      "date": "2026-09-04",
+      "notes": [
+        "对设置界面和功能进行优化",
+        "1. 优化设置代码排版",
+        "2. 优化账号显示效果",
+        "3. 新增开发者调试工具",
+        "4. 优化存储空间显示",
+        "5. 合并开发者和版本为关于与开发"
+      ],
+      "download_url": "https://raw.githubusercontent.com/Junlongliu1/iMusic-releases/main/assets/iMusic-iOS-unsigned.ipa"
+    }
+  ]
+}
