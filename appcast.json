@@ -1,6 +1,18 @@
 {
   "releases": [
     {
+      "version": "V0.2.3",
+      "date": "2026-09-05",
+      "notes": [
+        "1. 首页每日推荐视图更新",
+        "2. 私人雷达和每日推荐刷新策略更新",
+        "3. 更换每日推荐 API",
+        "4. 创建统一详情页视图和加载动画",
+        "5. 删除一些无用代码"
+      ],
+      "download_url": "https://raw.githubusercontent.com/Junlongliu1/iMusic-releases/main/assets/iMusic-iOS-unsigned.ipa"
+    },
+    {
       "version": "V0.2.2",
       "date": "2026-09-04",
       "notes": [
